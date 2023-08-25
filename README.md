@@ -1,4 +1,3 @@
 # gitdemoananya
-Git Demo Repository.
-<br>
+Git Demo Repository. <br>
 Author-Ananya
